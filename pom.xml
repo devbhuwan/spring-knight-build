@@ -12,6 +12,7 @@
     <modules>
         <module>parent</module>
         <module>bom</module>
+        <module>resources</module>
     </modules>
 
 </project>

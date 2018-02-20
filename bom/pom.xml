@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://maven.apache.org/POM/4.0.0"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>io.developerbhuwan.spring.knight</groupId>
+    <artifactId>spring-knight-release</artifactId>
+    <version>1.0.0.BUILD-SNAPSHOT</version>
+    <packaging>pom</packaging>
+
+    <parent>
+        <groupId>io.developerbhuwan.spring.knight.build</groupId>
+        <artifactId>spring-knight-build</artifactId>
+        <version>1.0.0.BUILD-SNAPSHOT</version>
+    </parent>
+
+    <name>Spring Knight Release - BOM</name>
+    <description>Bill of materials to make sure a consistent set of versions is used for Spring Knight modules.
+    </description>
+    <url>https://github.com/devbhuwan/spring-knight-build</url>
+
+    <dependencyManagement>
+        <dependencies>
+
+        </dependencies>
+    </dependencyManagement>
+
+</project>

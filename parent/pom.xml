@@ -10,7 +10,7 @@
     <parent>
         <groupId>io.developerbhuwan.spring.knight.build</groupId>
         <artifactId>spring-knight-build</artifactId>
-        <version>1.0.0.BUILD-SNAPSHOT</version>
+        <version>1.0.0.SK-1-SNAPSHOT</version>
     </parent>
 
     <name>Spring Knight Build - General parent module</name>

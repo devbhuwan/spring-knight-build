@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>io.developerbhuwan.spring.knight.build</groupId>
     <artifactId>spring-knight-build</artifactId>
-    <version>1.0.0.BUILD-SNAPSHOT</version>
+    <version>1.0.0.SK-1-SNAPSHOT</version>
     <packaging>pom</packaging>
     <name>Spring Knight Build</name>
 
